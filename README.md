@@ -1,6 +1,6 @@
 #Brayan Triana
 
-# Python Algoritmos de los diagramas de flujo
-# Python Ejercicios If, Elif, Else
+# AlgoritmosPython Algoritmos de los diagramas de flujo
+# Ejercicios If Else Ejercicios If, Elif, Else
 # Python
 # Python
